@@ -1,0 +1,14 @@
+Randy Rees
+
+Project 1 resources:
+
+I built basic websites before so just needed a refresher for this project. Below are the resources that helped me:
+
+- Udacity course "Intro to HTML and CSS"
+- Sitepoint book "Build Your Own Website The Right Way Using HTML & CSS" by Ian Lloyd
+- The website http://www.w3schools.com/
+- The MDN website https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+- Used the website http://getbootstrap.com/css/
+- Udacity course "How to Use Git and GitHub"
+
+I achieved a 0% mismatch on my test run.
